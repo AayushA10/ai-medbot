@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+numpy
+Pillow
+# Optional
+transformers
+torch
+googletrans==4.0.0-rc1
